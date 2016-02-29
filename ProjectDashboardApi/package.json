@@ -1,0 +1,14 @@
+{
+    "name": "ProjectDashboardApi",
+    "main": "server.js",
+    "dependencies": {
+        "express": "4.0.0",
+	"serve-favicon":"2.2.0",
+        "body-parser": "1.0.1",
+	"pg": "4.2.0",
+	"morgan":"1.5.1",
+	"cors":"2.5.3",
+	"forever":"0.13.0"
+    }
+}
+
