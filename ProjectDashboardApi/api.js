@@ -59,4 +59,4 @@ module.exports = app;
 // START THE SERVER
 // =============================================================================
 app.listen(port);
-console.log('Magic happens on http://172.17.121.14:' + port);
+console.log('Magic happens on http://localhost' + port);
